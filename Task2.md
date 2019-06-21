@@ -85,6 +85,7 @@ Note: I personal preference would be to begin answering the questions first then
 - *Freecodcamp single C++ video [Video]: https://youtu.be/vLnPwxZdW4Y*
 - Mycodeschool Introduction to Programming through 'C' [Video]: https://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE
 - *C++ Tutorials [Video]: https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M*
+- Buidling a chatbot [Text]- <https://www.codeproject.com/Articles/36106/Chatbot-Tutorial>
 
 **Tips:**
 
