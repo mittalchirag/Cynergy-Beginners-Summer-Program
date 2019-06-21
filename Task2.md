@@ -74,7 +74,7 @@ Note: I personal preference would be to begin answering the questions first then
 
 **Best submissions will be displayed as a reference for others**
 
-**Resources (the most preferred ones are in italics):**
+## Resources (the most preferred ones are in italics):
 
 - Learn Markdown [Text] - <https://guides.github.com/features/mastering-markdown/>
 - Awesome Git List [Text] - <https://github.com/dictcp/awesome-git
