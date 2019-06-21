@@ -48,10 +48,10 @@ After this task you should have knowledge of these programming concepts:
 
 *Using the above concepts only, you could be able to complete the task. (You can use other concepts too)*
 
-It is not required to make a full-fledged chatbot, it can just be as simple as taking a string as input and giving some other string as output. The bare minimum to complete this task is that your chatbot should respond to the following queries:
+It is not required to make a full-fledged chatbot, it can be as simple as taking a string as input and giving some other string as output. The bare minimum to complete this task is that your chatbot should respond to the following queries:
 
 1. What is your name?
-2. What day is today?
+2. Which day is today?
 3. What is 2+2?
 4. Who is your creator?
 5. When is the next match of India?
